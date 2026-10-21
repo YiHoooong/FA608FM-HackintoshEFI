@@ -1,0 +1,15 @@
+.DS_Store
+._*
+*.log
+opencore-*.txt
+Claude-Backup*
+Microsoft/
+APPLE/
+
+*.orig
+*.bak
+oldConfig.plist
+EFI/OC/config-*.plist
+EFI/OC/config.plist.*
+EFI/OC/config.plist.bak*
+EFI/OC/oldConfig*
